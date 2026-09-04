@@ -1,0 +1,6 @@
+QL3 Logo Connection Restore — 2026-09-04
+
+- Restores the full connected lower Q3 emblem geometry.
+- Keeps the cinematic centered hero layout.
+- Removes the unwanted Queen's Level 3 lettering from the hero artwork itself.
+- Adds cache-busting version identifiers.

@@ -1,0 +1,12 @@
+QL3 CINEMATIC LANDING PAGE UPDATE — 2026-09-04
+
+- Rebuilds the static QL3 landing page to closely follow the approved cinematic concept.
+- Centers the chess-inspired QL3 emblem over a planetary-horizon treatment.
+- Adds cinematic left/right hero flavor text and gold/blue typography.
+- Rebuilds project cards for STELLA, Omega-6 Nexus, and The Ninth Portal.
+- Adds individual project artwork to each project card.
+- Keeps STELLA's acronym visible.
+- Changes The Ninth Portal subtitle to "Persistent Turn-Based Science-Fiction Universe."
+- Keeps The Ninth Portal status at Pre-Alpha.
+- Adds the closing statement: "Different Projects. A Common Purpose."
+- Static HTML/CSS only; no backend or database required.

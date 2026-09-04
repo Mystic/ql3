@@ -1,0 +1,12 @@
+Queen's Level 3 Software - Initial Landing Page Build
+Date: 2026-09-04
+
+Includes:
+- Static QL3 landing page
+- Queen's Level 3 logo asset
+- Project cards for STELLA, Omega-6 Nexus, and The Ninth Portal / NPGE
+- Ninth Portal live link
+- Responsive desktop/mobile styling
+- Render static-site README guidance
+
+No database or application server required.

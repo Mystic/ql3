@@ -1,0 +1,8 @@
+QL3 Ninth Portal Card Update — 2026-09-04
+
+Changes:
+- Renames the project card from "The Ninth Portal / NPGE" to "The Ninth Portal".
+- Replaces the generic portal glyph with a compact image based on the supplied four-star portal artwork.
+- Keeps the project status at Pre-Alpha / Coming Soon.
+
+No backend or deployment changes are required.

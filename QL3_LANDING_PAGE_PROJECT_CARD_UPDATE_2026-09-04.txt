@@ -1,0 +1,7 @@
+QL3 Landing Page Project Card Update — 2026-09-04
+
+- Restored the preferred Queen's Level 3 3D chess logo.
+- Added compact visual identity marks to each project card.
+- Added STELLA acronym expansion: Scheduling, Tasks, Events, Lists, Logs & Assistance.
+- Corrected The Ninth Portal / NPGE status to Pre-Alpha and removed the public live-site link.
+- Kept STELLA and Omega-6 Nexus marked as In Development / Coming Soon.

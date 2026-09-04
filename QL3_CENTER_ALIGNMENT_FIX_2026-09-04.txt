@@ -1,0 +1,7 @@
+QL3 center alignment fix
+
+- Cropped embedded partial title text from the hero emblem asset.
+- Removed negative hero-image overlap.
+- Explicitly centers the hero-center grid item.
+- Added cache-busting query strings for CSS and hero artwork.
+- Build: QL3-CINEMATIC-V3-CENTER-20260904
