@@ -1,0 +1,11 @@
+QL3 Ninth Portal Alpha Link Update — 2026-09-20
+
+Changes:
+- Updates The Ninth Portal project status from Pre-Alpha to Alpha.
+- Replaces the locked status indicator with an active "Enter Alpha" link.
+- Links directly to https://ninthportal.net.
+- Adds hover and keyboard-focus treatment so the active project is visibly
+  distinct from projects that remain Coming Soon.
+- Updates the stylesheet cache key and QL3 build marker.
+
+No backend or database changes are required.
