@@ -1,0 +1,12 @@
+NPGE Beacon Network Mini-Map Fix — 2026-09-20
+
+Changes:
+- Forces browsers to load the deployed beacon-map stylesheet instead of an
+  older cached Omega-5 stylesheet.
+- Displays beacon networks as compact individual cards when space permits.
+- Constrains every network map to a fixed miniature-chart height.
+- Replaces overlapping full beacon names inside the SVG with numbered markers.
+- Adds a readable legend containing each beacon name, Sector, and ParSec.
+- Highlights the vessel's local beacon in both the map and legend.
+
+No Alembic migration is required.
